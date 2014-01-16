@@ -1,0 +1,25 @@
+{
+  "name": "node-kompass",
+  "version": "0.0.1",
+  "description": "Port of Compass, using nodejs and libscss",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RobinQu/node-kompass.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "scss",
+    "compass",
+    "css"
+  ],
+  "author": "RobinQu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RobinQu/node-kompass/issues"
+  },
+  "homepage": "https://github.com/RobinQu/node-kompass"
+}
